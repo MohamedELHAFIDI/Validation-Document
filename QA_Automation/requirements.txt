@@ -1,0 +1,2 @@
+selenium==4.x.x
+pytest==7.x.x
